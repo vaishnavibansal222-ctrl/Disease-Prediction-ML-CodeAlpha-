@@ -291,7 +291,8 @@ Machine Learning Internship — CodeAlpha
 
 ## Task 4: Disease Prediction from Medical Data
 
-⭐ Project Highlights
+## ⭐ Project Highlights
+
 ✔ Medical Data Classification
 ✔ Data Preprocessing
 ✔ Exploratory Data Analysis
@@ -306,7 +307,9 @@ Machine Learning Internship — CodeAlpha
 ✔ ROC Curve
 ✔ Feature Importance
 ✔ Model Persistence
-⚠️ Disclaimer
+
+
+## ⚠️ Disclaimer
 
 This project is created for educational purposes as part of a machine learning internship.
 
